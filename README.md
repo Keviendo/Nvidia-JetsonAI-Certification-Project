@@ -1,6 +1,6 @@
-# Nvidia-JetsonAI-Certification-Project
+# Nvidia-JetsonAI-Certification-Project-For-Kevin-Bishara
 
-# YOLO Object detection For nivida jetson 
+# Object detection For nivida jetson 
 I am using the famous YOLO object detection that uses neural networks. The YOLO object detection is famous for training using the COCO dataset which consist of lots of daily objects. 
 # basic prerequisites
 ## Jetson configuration
