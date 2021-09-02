@@ -15,10 +15,10 @@ sudo apt-get install git cmake libpython3-dev python3-numpy
 Clone this repo on your jetson
 ````
 git clone --recursive https://github.com/dusty-nv/jetson-inference
+cd jetson-inference
 ```` 
-Switch Directory to jetson-inference 
 
-Make Directory in Build and Configure
+Create Directory in ~/build and Configure
 ```` 
 mkdir build
 $ cd build
