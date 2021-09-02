@@ -29,7 +29,7 @@ $ sudo ldconfig
 ```` 
 
 ## Run This Python Program!
-[Screenshot (2)](https://user-images.githubusercontent.com/89232571/131806302-c3fa1595-033a-4551-a703-12f6526f91b1.png)
+![alt text](https://user-images.githubusercontent.com/89232571/131806302-c3fa1595-033a-4551-a703-12f6526f91b1.png)
 
 
 # Reflection and Improvment
