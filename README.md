@@ -1,9 +1,9 @@
 # Nvidia-JetsonAI-Certification-Project-For-Kevin-Bishara
 
-# Object detection using Hello AI World and NVIDIA TensorRT 
+# Object Detection Using Hello AI World and NVIDIA TensorRT 
 Hello AI World is used for image classification and object detection all while being transferable onboard the Nano jetson. 
 
-## Jetson Configuration
+## Jetson Input Commands
 
 ````
 sudo apt-get update
