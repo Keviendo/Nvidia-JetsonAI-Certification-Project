@@ -2,8 +2,6 @@
 
 # Object detection using Hello AI World and NVIDIA TensorRT 
 Hello AI World is used for image classification and object detection all while being transferable onboard the Nano jetson. 
-# basic prerequisites
-
 
 ## Jetson Configuration
 
